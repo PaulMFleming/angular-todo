@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/PaulMFleming/angular-todo.git"
   },
-  "author": "",
+  "author": "Paul M Fleming <paul.stillbreathing@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/PaulMFleming/angular-todo/issues"
